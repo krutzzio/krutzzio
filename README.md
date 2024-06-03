@@ -8,3 +8,5 @@ Skills: REACT / JS / HTML / CSS / VUE JS
 - 🌱 I’m currently learning NextJs and Astro. 
 - 💬 Ask me about anything!!! I want to meet more devs to keep growing! 
 - 📫 How to reach me: gerard.costa.curr@gmail.com 
+
+For more information you can check my profesional portfolio => https://gerard-costa.netlify.app/
