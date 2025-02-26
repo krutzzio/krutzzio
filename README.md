@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Gerard
-#### I am Front End developer, living in Barcelona
+#### I am Software developer, living in Barcelona
+##### Rigth now im working on Big Bang tech
 Since I ended the degree I've been focusing on web development. In particular I am focused on Front End technologies. Although I am also interested in the Back End to understand how Databases and APIS work.
 
 
